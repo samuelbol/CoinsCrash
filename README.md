@@ -1,4 +1,5 @@
 # CoinsCrash
+
 A custom script for CoinsCrash, an online multiplayer bitcoin gambling game where an increasing curve can crash at any moment. This project implements a Martingale autobet strategy within a sandbox environment, allowing users to automate their bets and manage risk effectively. 
 Ideal for those looking to experiment with algorithmic betting strategies in a controlled setting.
 
@@ -18,6 +19,7 @@ Ideal for those looking to experiment with algorithmic betting strategies in a c
 > allowing you to maintain your strategy and minimize the risk of depleting your funds prematurely.
 > Betting with a smaller bankroll may significantly increase the likelihood of loss, especially during extended losing streaks. Always bet responsibly and within your means.
 ```
+
 
 ## Script Simulation
 > Here’s a simulation of the strategy over 150 rounds to showcase its performance.
@@ -118,3 +120,10 @@ Ideal for those looking to experiment with algorithmic betting strategies in a c
 ```
 
 ## Support
+
+If you find this project helpful, consider supporting me to keep it running!
+
+Bitcoin donations are welcome:
+**BTC Wallet:** `0x967667290f9b547666bda12d91F8BB3fb3462bcb`
+
+Every bit of support is greatly appreciated! 🙏
