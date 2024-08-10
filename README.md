@@ -118,12 +118,3 @@ Ideal for those looking to experiment with algorithmic betting strategies in a c
 -The author is not responsible for any financial outcomes resulting from the use of this software.
 -Gamble responsibly!
 ```
-
-## Support
-
-If you find this project helpful, consider supporting me to keep it running!
-
-Bitcoin donations are welcome:
-**BTC Wallet:** `0x967667290f9b547666bda12d91F8BB3fb3462bcb`
-
-Every bit of support is greatly appreciated! 🙏
