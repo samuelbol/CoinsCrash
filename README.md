@@ -7,7 +7,7 @@ Ideal for those looking to experiment with algorithmic betting strategies in a c
 1. **Login** or **Create a new account** on [CoinsCrash](https://CoinsCrash.com/register/Engineboy17).
 2. Navigate to the **CoinsCrash game**.
 3. Click on **AUTO**, then select **AutoBet/Custom**.
-4. **Copy the SCRIPT** from the following link: [GitHub Script](https://github.com/samuelbol/CoinsCrash/main/SCRIPT/).
+4. **Copy the SCRIPT** from the following link: [GitHub Script](https://github.com/samuelbol/CoinsCrash/blob/main/martingaleStrategy.js).
 5. **Paste the SCRIPT** into the **Custom Script** box.
 6. Click **Run**.
 
